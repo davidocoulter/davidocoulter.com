@@ -1,2 +1,2 @@
 # davidocoulter.com
-Another iteration of my frickin website.
+Yet another iteration of my website. (THIS TIME THREEPOINTOH!)
